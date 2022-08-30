@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">👋 Hey! I'm Cyryl.</h2>
+<h3 align="center">Java backend developer</h3>
+<p align="center">
+  <a href="https://t.me/kqlqk">Telegram</a> • kononchukworkmail@gmail.com
+</p>
 
-<!--
-**kqlqk/kqlqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on <a href="https://github.com/kqlqk/list_TODO">My pet project</a>
+- 🌱 I’m currently learning <b>Java EE stack :)</b>
+- 🎓 Student of: <b>Collegium Da Vinci. Poznan, Poland</b>
+- 😉 I’m open for <b>Collaborative development</b> 
+- 💪 Skills: <b>Java Core / Spring Framework / Spring Web / Spring Data Jpa / Spring Security / Spring Boot</b>
+- 📫 How to reach me: <a href="https://t.me/kqlqk">Telegram</a> • kononchukworkmail@gmail.com
+- 🗺️ From <b>Belarus</b> To <b>Poland</b>
