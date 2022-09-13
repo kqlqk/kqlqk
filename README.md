@@ -4,8 +4,8 @@
   <a href="https://t.me/kqlqk">Telegram</a> • kononchukworkmail@gmail.com
 </p>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning <b>Java EE stack :)</b>
+- 🔭 I’m currently working on <b>new pet-project</b>
+- 🌱 I’m currently learning <b>Docker, CI/CD, Microservices</b>
 - 🎓 Student of: <b>Collegium Da Vinci. Poznan, Poland</b>
 - 😉 I’m open for <b>Collaborative development</b> 
 - 💪 Skills: <b>Java Core / Spring Framework / Spring Web / Spring Data Jpa / Spring Security / Spring Boot</b>
