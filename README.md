@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning <b>Microservices</b>
 - 🎓 Student of: <b>Collegium Da Vinci. Poznan, Poland</b>
 - 😉 I’m open for <b>Collaborative development</b> 
-- 💪 Skills: <b>Java Core / Spring Framework / Spring Web / Spring Data Jpa / Spring Security / Spring Boot</b>
+- 💪 Skills: <b>Java Core / Spring Framework / Spring MVC / Spring Data Jpa / Spring Security / Spring Boot</b>
 - 📫 How to reach me: <a href="https://t.me/kqlqk">Telegram</a> • kononchukworkmail@gmail.com
 - 🗺️ From <b>Belarus</b> To <b>Poland</b>
 - 🧠 My projects: <a href="https://github.com/kqlqk/list_TODO">TODO List</a>
