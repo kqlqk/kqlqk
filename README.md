@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm Cyryl.</h2>
+<h2 align="center">👋 Hey! I'm Kirill</h2>
 <h3 align="center">Java backend developer</h3>
 <p align="center">
   <a href="https://t.me/kqlqk">Telegram</a> • kononchukworkmail@gmail.com
